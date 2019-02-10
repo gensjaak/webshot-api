@@ -6,3 +6,4 @@ faire le test de l'API localement avec un interpréteur de code PHP
 
 
 http://localhost/api.php?url=https://webmail.unicaen.fr&width=800&nom=21710425863
+# webshot-api
